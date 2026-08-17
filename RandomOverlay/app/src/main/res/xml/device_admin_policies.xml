@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- No specific policies like "force-lock" or "wipe-data" are requested. -->
-    <!-- Being a device admin inherently makes the app harder to uninstall. -->
-</device-admin>
